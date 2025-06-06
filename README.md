@@ -2,16 +2,18 @@
 
 This is a "lite" mobile version of a Reddit-like application called Greddit, built with Flutter. It allows users to browse posts, view communities (SubGreddiits), create new posts, and use simple moderation tools. The application is designed to work offline by storing all data locally.
 
-<p align="center">
-    <img src="assets/demo_home_screen.jpeg" alt="Greddit Lite Screenshot" width="315" style="display:inline-block; vertical-align:top; margin-right:20px;"/>
-    <video src="https://github.com/user-attachments/assets/9b6615d9-2dab-4391-9e84-e0765d87958c" width="300" controls style="display:inline-block; vertical-align:top;"></video>
-</p>
-
-
-
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 10px; vertical-align: top;">
+        <img src="assets/demo_home_screen.jpeg" alt="Greddit Lite Screenshot" width="315"/>
+      </td>
+      <td style="padding-left: 10px; vertical-align: top;">
+        <video src="https://github.com/user-attachments/assets/9b6615d9-2dab-4391-9e84-e0765d87958c" width="300" controls></video>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Features
 
