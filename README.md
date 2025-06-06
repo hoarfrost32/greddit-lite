@@ -4,8 +4,13 @@ This is a "lite" mobile version of a Reddit-like application called Greddit, bui
 
 <p align="center">
     <img src="assets/demo_home_screen.jpeg" alt="Greddit Lite Screenshot" width="315" style="display:inline-block; vertical-align:top; margin-right:20px;"/>
-    <video src="assets/greddit_demo.mp4" width="300" controls style="display:inline-block; vertical-align:top;"></video>
+    <video src="https://github.com/user-attachments/assets/9b6615d9-2dab-4391-9e84-e0765d87958c" width="300" controls style="display:inline-block; vertical-align:top;"></video>
 </p>
+
+
+
+
+
 
 
 ## Features
